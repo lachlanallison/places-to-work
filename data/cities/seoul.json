@@ -372,5 +372,26 @@
     "smoking": false,
     "standing_tables": false,
     "outdoor_seating": true
+  },
+  {
+    "name": "Alver Coffee",
+    "type": "Cafe",
+    "area": "Gangnam",
+    "google_maps": "https://goo.gl/maps/LEKcfEFRp3nmGxnr6",
+    "coordinates": "37.5030015,127.027542",
+    "wifi": 3,
+    "speed": 20,
+    "power": 2,
+    "vacancy": 5,
+    "comfort": 3,
+    "quiet": 2,
+    "drinks": 2,
+    "food": 3,
+    "view": 3,
+    "price": 4,
+    "music": false,
+    "smoking": true,
+    "standing_tables": false,
+    "outdoor_seating": true
   }
 ]
